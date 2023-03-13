@@ -22,5 +22,5 @@ I like to share what I learn.
 
 [掘金地址](https://juejin.cn/user/3861140569077950/posts)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=senfish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=senfish&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy" />
 <!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senfish&hide_title=true&hide_border=true&layout=compact&theme=merko" /> -->
